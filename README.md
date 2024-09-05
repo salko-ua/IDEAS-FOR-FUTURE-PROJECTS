@@ -11,11 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/salko-ua/IDEAS-FOR-FUTURE-PROJECTS/blob/main/LICENSE">License</a> •
-  <a href="https://github.com/salko-ua/IDEAS-FOR-FUTURE-PROJECTS/blob/main/STEAMGUARD INTERFACE SELFHOST/Description.md">Steamguard GUI</a> •
-  <a href="#under-the-hood">Under the Hood</a> •
-  <a href="#support">Need Help?</a> •
-  <a href="#about">About</a> •
-  <a href="#credits-and-references">Credits</a>
+  <a href="https://github.com/salko-ua/IDEAS-FOR-FUTURE-PROJECTS/blob/main/STEAMGUARD%20INTERFACE%20SELFHOST/Description.md">Steamguard GUI</a> •
+  <a href="https://salko-ua.de/">About me</a> •
+  <a href="https://salko-ua.de/credits">Credits</a> •
+  <a href="https://t.me/salkooua">Need Help?</a> 
 </p>
 
 ### All my potential ideas for future projects are stored and gonna stored here
