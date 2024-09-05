@@ -22,6 +22,7 @@
 ## IDEAS
 ### Issues should be open for each idea
 
+- [x] #1
 
 
 
