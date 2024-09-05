@@ -1,7 +1,5 @@
 
 <h2 align="center">IDEAS-FOR-FUTURE-PROJECTS</h2>
-<h4 align="center">All my potential ideas for future projects are stored and gonna stored here</h4>
-
 
 <p align="center">
     <a href="https://www.gov.uk/government/news/ukraine-what-you-can-do-to-help"><img src="https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700" alt="Support Ukraine"></a>
@@ -17,6 +15,9 @@
   <a href="https://salko-ua.de/credits">Credits</a> •
   <a href="https://t.me/salkooua">Need Help?</a> 
 </p>
+
+<h4 align="center">All my potential ideas for future projects are stored and gonna stored here</h4>
+
 
 
 
