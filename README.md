@@ -1,5 +1,5 @@
 
-<h1 align="center">IDEAS-FOR-FUTURE-PROJECTS</h1>
+<h2 align="center">IDEAS-FOR-FUTURE-PROJECTS</h2>
 
 <p align="center">
     <a href="https://www.gov.uk/government/news/ukraine-what-you-can-do-to-help"><img src="https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700" alt="Support Ukraine"></a>
