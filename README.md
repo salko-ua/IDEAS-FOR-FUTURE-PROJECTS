@@ -19,7 +19,8 @@
 </p>
 
 
-
+## IDEAS
+### Issues should be open for each idea
 
 
 
