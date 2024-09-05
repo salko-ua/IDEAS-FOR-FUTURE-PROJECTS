@@ -1,6 +1,6 @@
 
 <h1 align="center">IDEAS-FOR-FUTURE-PROJECTS</h1>
-<h2 align="center">All my potential ideas for future projects are stored and gonna stored here</h2>
+<h4 align="center">All my potential ideas for future projects are stored and gonna stored here</h4>
 
 
 <p align="center">
