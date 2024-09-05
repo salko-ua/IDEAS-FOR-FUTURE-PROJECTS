@@ -1,5 +1,5 @@
 
-<h2 align="center">IDEAS-FOR-FUTURE-PROJECTS</h2>
+<h1 align="center">IDEAS-FOR-FUTURE-PROJECTS</h1>
 <h3 align="center">Potential ideas for future projects are stored here</h3>
 
 <p align="center">
