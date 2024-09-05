@@ -19,11 +19,11 @@
 </p>
 
 
-## IDEAS
-### Issues should be open for each idea
+## IDEAS 💡
+### Issues should be open for each idea ❗️
 
-- [ ] [STEAMGUARD GUI](https://github.com/salko-ua/IDEAS-FOR-FUTURE-PROJECTS/issues/1)
-
+1. - [ ] [STEAMGUARD GUI](https://github.com/salko-ua/IDEAS-FOR-FUTURE-PROJECTS/issues/1) 1️⃣
+2. - [ ] [BETTER TIC-TAC-TOE](https://github.com/salko-ua/IDEAS-FOR-FUTURE-PROJECTS/issues/2) 2️⃣
 
 
 
