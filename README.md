@@ -1,5 +1,5 @@
 
-<div align="center" style="font-size: 32px;">IDEAS-FOR-FUTURE-PROJECTS</div>
+<p align="center" style="font-size:30px;">IDEAS-FOR-FUTURE-PROJECTS</p>
 
 <p align="center">
     <a href="https://www.gov.uk/government/news/ukraine-what-you-can-do-to-help"><img src="https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700" alt="Support Ukraine"></a>
