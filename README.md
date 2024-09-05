@@ -22,7 +22,7 @@
 ## IDEAS
 ### Issues should be open for each idea
 
-- [ ] #1
+- [ ] https://github.com/salko-ua/IDEAS-FOR-FUTURE-PROJECTS/issues/1
 
 
 
