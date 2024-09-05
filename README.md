@@ -1,5 +1,5 @@
-
-<h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">IDEAS-FOR-FUTURE-PROJECTS</h1>
+<h1 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: -20px;">IDEAS-FOR-FUTURE-PROJECTS</h1>
+<h3 align="center" style="margin-bottom: 30px;">All my potential ideas for future projects are stored and gonna stored here</h3>
 
 
 <p align="center">
@@ -17,5 +17,6 @@
   <a href="https://t.me/salkooua">Need Help?</a> 
 </p>
 
-### All my potential ideas for future projects are stored and gonna stored here
+
+
 
