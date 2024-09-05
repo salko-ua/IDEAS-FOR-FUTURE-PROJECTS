@@ -1,9 +1,10 @@
 
 <h1 align="center">IDEAS-FOR-FUTURE-PROJECTS</h1>
+<h3 align="center">Potential ideas for future projects are stored here</h3>
 
 <p align="center">
     <a href="https://www.gov.uk/government/news/ukraine-what-you-can-do-to-help"><img src="https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700" alt="Support Ukraine"></a>
-    <a href="https://github.com/twbs/bootstrap/blob/v4-dev/LICENSE"><img src="https://img.shields.io/github/license/twbs/bootstrap.svg"></a>
+    <a href="https://github.com/twbs/bootstrap/blob/v4-dev/LICENSE"><img src="https://img.shields.io/github/license/twbs/bootstrap.svg" alt="license"></a>
     <a href="https://github.com/nqtronix/git-template/blob/master/badges.md#project-status"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="status: active"></a>
     <a href="https://github.com/salko-ua/IDEAS-FOR-FUTURE-PROJECTS/commits/main"><img src="https://img.shields.io/github/last-commit/salko-ua/IDEAS-FOR-FUTURE-PROJECTS.svg" alt="last commit"></a>
 </p>
@@ -16,7 +17,8 @@
   <a href="https://t.me/salkooua">Need Help?</a> 
 </p>
 
-<h4 align="center">All my potential ideas for future projects are stored and gonna stored here</h4>
+
+
 
 
 
